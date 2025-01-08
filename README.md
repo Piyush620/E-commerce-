@@ -2,6 +2,10 @@
 
 A modern, responsive ecommerce landing page built with HTML, CSS, and JavaScript. The page features a clean design with product showcases, promotional banners, and newsletter subscription functionality.
 
+##🎥DEMO
+
+
+
 ## ✨ Features
 
 - 🎯 Responsive navigation header with shopping cart icon
