@@ -4,7 +4,7 @@ A modern, responsive ecommerce landing page built with HTML, CSS, and JavaScript
 
 ## 🎥DEMO
 
-
+https://github.com/user-attachments/assets/ed7690f4-79ef-426a-8618-ef51a9167d6a
 
 ## ✨ Features
 
